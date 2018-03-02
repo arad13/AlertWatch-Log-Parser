@@ -1,0 +1,7 @@
+c:\users\andrew\source\repos\ExceptionLogParser\ExceptionLogParser\bin\Debug\ExceptionLogParser.exe.config
+c:\users\andrew\source\repos\ExceptionLogParser\ExceptionLogParser\bin\Debug\ExceptionLogParser.exe
+c:\users\andrew\source\repos\ExceptionLogParser\ExceptionLogParser\bin\Debug\ExceptionLogParser.pdb
+c:\users\andrew\source\repos\ExceptionLogParser\ExceptionLogParser\obj\Debug\ExceptionLogParser.csproj.CoreCompileInputs.cache
+c:\users\andrew\source\repos\ExceptionLogParser\ExceptionLogParser\obj\Debug\ExceptionLogParser.exe
+c:\users\andrew\source\repos\ExceptionLogParser\ExceptionLogParser\obj\Debug\ExceptionLogParser.pdb
+c:\users\andrew\source\repos\ExceptionLogParser\ExceptionLogParser\obj\Debug\ExceptionLogParser.csprojResolveAssemblyReference.cache
